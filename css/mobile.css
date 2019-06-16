@@ -1,0 +1,137 @@
+.container{
+    padding: 0 7px;
+}
+
+/* TopNav */
+
+#topnav form{
+    padding: 10px 0 10px 0px;
+}
+
+#topnav ul li a{
+    padding: 10px 6px;
+}
+
+#topnav ul{
+    float: left;
+}
+
+#header .navbar ul li a{
+    padding: 8px 20px;
+}
+
+/* Header */
+#header .navbar{
+    padding: 25px 0;
+}
+#header #search-result{ 
+    left: 300px;
+}
+
+#header .navbar .logo{
+    margin-bottom: 10px;
+}
+
+#header .showcase .slider{
+    display: none;
+}
+
+#header .showcase .showcase-content{
+    width: 100%;
+    float: none;
+    padding: 0;
+}
+
+#header .showcase .showcase-content .btn{
+    margin: 10px 78px 30px;
+    padding: 10px 5px 10px 10px;
+}
+
+/* Box */
+#boxes{
+    padding: 30px 0;
+}
+
+#boxes .box {
+    width: 100%;
+    float: none;
+    padding: 20px 20px;
+    border: none;
+}
+
+/* Clients */
+#clients .box-client img{
+    width: 36%;
+    height: 35px;
+    margin: 25px 20px 25px 25px;
+}
+
+#clients .box-client img:last-child{
+    margin-left: 105px; 
+}
+
+#bottom-content .box-content {
+    width: 98%;
+    float: none;
+    margin: 35px 10px 75px;
+}
+
+#bottom-content {
+    background-repeat: repeat;
+}
+
+#bottom-content .box-content img{
+    display: none;
+}
+
+#bottom-content .box-content .box-bottom{
+    margin-right: 15px;
+}
+
+/* footer */
+#footer ul{
+    display: none;
+}
+
+#footer p{
+    float: none;
+    text-align: center;
+}
+
+/* About */
+#about{
+    margin: 15px 10px;
+}
+#about .main-col{
+    float: none;
+    width: 100%;
+}
+
+#about .sidebar{
+    float: none;
+    width: 100%;
+}
+
+/* SignUp */
+.form-wrap-log .form-group input{
+    width: 100%;
+}
+
+/* LogIn */
+.modal-content {
+    margin: 40% auto;
+    width: 100%;
+}
+
+/* LogOut */
+#topnav #logout{
+    padding: 0;
+} 
+.session-css {
+    display: none;
+}
+
+/* users */
+#user-con table{
+    font-size: 12px;
+}
